@@ -10,10 +10,12 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        System.out.println("我不好~");
 
     }
 
     public void test(){
         int i =10086;
+        System.out.println("你好呀~");
     }
 }
